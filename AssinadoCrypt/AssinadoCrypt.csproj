@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Authors>Assinado.Com</Authors>
+    <Company>Assinado.Com</Company>
+    <PackageId>Assinado.Crypt</PackageId>
+    <Copyright>Assinado.Com</Copyright>
+  </PropertyGroup>
+
+</Project>
