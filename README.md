@@ -5,6 +5,10 @@ Este padrão depende de uma chave e de um vetor de inicialização para a execu�
 
 A biblioteca já vem com chaves prédefinidas, mas podem ser facilmente alteradas e manipuladas.
 
+# Intalação da biblioteca via Nuget Packge
+
+    Install-Package Assinado.Crypt -Version 1.0.0
+
 # Exemplos para criptografar
 
 Criptografando utilizando as chaves padrão:
