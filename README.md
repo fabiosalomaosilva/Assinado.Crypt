@@ -9,10 +9,10 @@ A biblioteca já vem com chaves prédefinidas, mas podem ser facilmente alterada
 
 Utilizando as chaves padrão:
 
-var frase = "minhasenha";
-var fraseCriptografada = frase.ToCrypt();
+    var frase = "minhasenha";
+    var fraseCriptografada = frase.ToCrypt();
 
 Criptografando com chaves customizadas:
 
-var frase = "minhasenha";
-var fraseCriptografada = frase.ToCrypt("gpjh387df2ghj65l", "l2345hsjfghjk54g");
+    var frase = "minhasenha";
+    var fraseCriptografada = frase.ToCrypt("gpjh387df2ghj65l", "l2345hsjfghjk54g");
